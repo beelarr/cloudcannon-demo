@@ -1,5 +1,6 @@
 ---
 title: About
-heading: Our team
+heading: Our team is great
 subtitle: Meet our efficient and qualified team.
 ---
+
