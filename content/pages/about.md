@@ -1,6 +1,6 @@
 ---
 title: About
-heading: Our team
+heading: Our team by Bryon
 subtitle: Meet our efficient and qualified team.
 ---
 
